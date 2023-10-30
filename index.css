@@ -1,0 +1,42 @@
+*{
+	color: #000;
+	background-color: white;
+}
+.infor{
+	display: flex;
+	gap: 20px;
+	border: 1px solid #000;
+	margin: 20px;
+	padding: 12px;
+}
+span{
+	width: 200px;
+	border-right: 4px double tomato;
+}
+label{
+	width: 120px;
+	display: block;
+}
+#effect-api > div{
+	margin: 20px;
+	display: flex;
+}
+p{
+	font-size: 26px;
+	font-weight: 600;
+}
+input{
+	padding: 4px 12px;
+	outline: none;
+}
+button{
+	width: 200px;
+	height: 40px;
+	background-color: tomato;
+}
+.delete-btn{
+	border: 1px solid red;
+	padding: 4px;
+	border-radius: 12px;
+	background: #ddd;
+}
