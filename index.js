@@ -1,4 +1,4 @@
-const urlApi = "https://jsonplaceholder.typicode.com/users"
+const urlApi = "http://localhost:3000/users"
 fetch(urlApi) 
 	.then (res => res.json())
 	.then ((users) =>

@@ -2,11 +2,13 @@
 	"users" : [
 		{
 			"id": 1,
-			"name": "Nguyễn Văn Hoàng"
+			"name": "Nguyễn Văn Hoàng",
+			"username": "xasduong"
 		},
 		{
 			"id": 2,
-			"name": "Chu Cá Lòng"
+			"name": "Chu Cá Lòng",
+			"username": "calong"
 		}
 	]
 }
