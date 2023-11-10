@@ -48,7 +48,7 @@ function deleteApi(id){
 function renderData(array) {
 	$('#users').innerHTML = array.map(
 		(item) => {
-			let {nameComic, mainComic,imageComic,chapComic, genreComic, id} = item
+			let {nameComic, mainComic,imageComic,chapComic, genreComic, linkComic, id} = item
 			return (`
 				<div class="infor item-${id}">
 					<div class="wrap-infor">
@@ -60,6 +60,7 @@ function renderData(array) {
 						<div>User name: ${mainComic}</div> 
 						<input class="genreComic" value=${genreComic}>
 						<input class="imageComic2" value=${imageComic}>
+						<input class="linkComic" value=${linkComic}>
 					</div>
 					<div class="delete-btn" onclick="deleteApi(${id})">Xóa</div>
 				</div>
@@ -76,12 +77,14 @@ function handleForm(){
 		let imageComic = $('input[name="imageComic"]').value;
 		let chapComic = $('input[name="chapComic"]').value;
 		let genreComic = $('input[name="genreComic"]').value;
+		let linkComic = $('input[name="linkComic"]').value;
 		var formData = {
 			nameComic: nameComic,
 			mainComic: mainComic,
 			imageComic: imageComic,
 			chapComic: chapComic,
-			genreComic: genreComic
+			genreComic: genreComic,
+			linkComic: linkComic
 		}
 		postApi(formData, () => {
 			getApi(renderData);
