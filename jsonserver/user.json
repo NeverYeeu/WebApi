@@ -1,24 +1,302 @@
 {
-  "users": [
+  "manhua": [
     {
-      "id": 2,
-      "name": "Chu Cá Lòng",
-      "username": "calong"
+      "id": 9,
+      "nameComic": "Chuyển Sinh Thành Liễu Đột Biến",
+      "mainComic": "Ngu Tử Du",
+      "imageComic": "https://i.postimg.cc/2j20Vw99/dc9260508ea8540c5232f3f699539fa3.png",
+      "linkComic": "https://timtruyen3shot.com/truyen-chuyen-sinh-thanh-lieu-dot-bien.html",
+      "chapComic": 110,
+      "genreComic": [
+        "All",
+        "Adventure",
+        "Comedy",
+        "Manhua",
+        "Action",
+        "Chuyển Sinh"
+      ]
     },
     {
-      "name": "Never_Yeeu",
-      "username": "neveryeeu",
-      "id": 3
+      "id": 10,
+      "nameComic": "Lạn Kha Kỳ Duyên",
+      "mainComic": "Kế Duyên",
+      "imageComic": "https://i.postimg.cc/0N56PqCn/lan-kha-ky-duyen-1619752265.jpg",
+      "linkComic": "https://truyenqqvn.com/truyen-tranh/lan-kha-ky-duyen-11161",
+      "chapComic": 250,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Mystery",
+        "Chuyển Sinh"
+      ]
     },
     {
-      "name": "Hoàng",
-      "username": "klklkk",
-      "id": 4
+      "id": 11,
+      "nameComic": "Người Trên Vạn Người",
+      "mainComic": "Kế Duyên",
+      "imageComic": "https://i.postimg.cc/bv9FL16x/nguoi-tren-van-nguoi.jpg",
+      "linkComic": "https://truyenqqvn.com/truyen-tranh/nguoi-tren-van-nguoi-11182",
+      "chapComic": 200,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Action",
+        "Xuyên Không",
+        "Chuyển Sinh",
+        "Adventure"
+      ]
     },
     {
-      "name": "Never_Yeeu",
-      "username": "l;;l;l;l;",
-      "id": 5
+      "id": 12,
+      "nameComic": "Ta Là Tà Đế",
+      "mainComic": "Tà Diệm",
+      "imageComic": "https://i.postimg.cc/DZR6hKcc/ta-la-ta-de-1573619796.jpg",
+      "linkComic": "https://truyenqqvn.com/truyen-tranh/ta-la-ta-de-8456",
+      "chapComic": 300,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Xuyên Không",
+        "Big Brain"
+      ]
+    },
+    {
+      "id": 13,
+      "nameComic": "Chàng Rể Mạnh Nhất Lịch Sử",
+      "mainComic": "Thẩm Lãng",
+      "imageComic": "https://i.postimg.cc/4yj5X14h/chang-re-manh-nhat-lich-su.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/chang-re-manh-nhat-lich-su-72026",
+      "chapComic": 128,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Action",
+        "Harem",
+        "Xuyên Không",
+        "Mystery",
+        "Adventure",
+        "Big Brain"
+      ]
+    },
+    {
+      "id": 14,
+      "nameComic": "Thần Sủng Tiến Hóa",
+      "mainComic": "Cao Bằng",
+      "imageComic": "https://i.truyenvua.com/ebook/190x247/than-sung-tien-hoa_1628300522.jpg?gt=hdfgdfg&mobile=2",
+      "linkComic": "https://truyenqqvn.com/truyen-tranh/than-sung-tien-hoa-11509",
+      "chapComic": 220,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Action",
+        "Sủng Thú",
+        "Xuyên Không",
+        "Mystery",
+        "Adventure"
+      ]
+    },
+    {
+      "id": 15,
+      "nameComic": "Vợ Tôi Là Quỷ Vương",
+      "mainComic": "Hạng Dã",
+      "imageComic": "https://i.postimg.cc/05h0SRNH/vo-toi-la-quy-vuong.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/vo-toi-la-quy-vuong-215390",
+      "chapComic": 440,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Webtoon",
+        "Adventure"
+      ]
+    },
+    {
+      "id": 16,
+      "nameComic": "Đại Quản Gia Là Ma Hoàng",
+      "mainComic": "Trác Phàm",
+      "imageComic": "https://i.postimg.cc/SxjBQYgz/dai-quan-gia-la-ma-hoang-904.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/dai-quan-gia-la-ma-hoang-219482",
+      "chapComic": 400,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Webtoon",
+        "Adventure",
+        "Big Brain"
+      ]
+    },
+    {
+      "id": 17,
+      "nameComic": "Tôi Bị Nhốt Tại Cùng Một Ngày Mười Vạn Năm",
+      "mainComic": "Lâm Việt",
+      "imageComic": "https://i.postimg.cc/NFc98rNN/ta-bi-nhot-tai-cung-mot-ngay-muoi-van-nam-1612664035.jpg",
+      "linkComic": "https://truyenqqvn.com/truyen-tranh/ta-bi-nhot-tai-cung-mot-ngay-muoi-van-nam-10868",
+      "chapComic": 440,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Chuyển Sinh",
+        "Action",
+        "Harem",
+        "Big Brain"
+      ]
+    },
+    {
+      "id": 19,
+      "nameComic": "Vừa Chơi Đã Có Tài Khoản Cấp Vương Giả",
+      "mainComic": "Vân Hạo",
+      "imageComic": "https://i.postimg.cc/BvpXk99J/vua-choi-da-co-tai-khoan-vuong-gia-1606175910.jpg",
+      "linkComic": "https://truyenqqvn.com/truyen-tranh/vua-choi-da-co-tai-khoan-vuong-gia-10552",
+      "chapComic": 333,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Chuyển Sinh",
+        "Truyện Màu",
+        "Hệ Thống"
+      ]
+    },
+    {
+      "id": 20,
+      "nameComic": "Cao Đẳng Linh Hồn",
+      "mainComic": "Tưởng Thừa Phong",
+      "imageComic": "https://i.postimg.cc/MT62hF2w/cao-dang-linh-hon.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/cao-dang-linh-hon-217240",
+      "chapComic": 203,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Truyện Màu"
+      ]
+    },
+    {
+      "id": 21,
+      "nameComic": "Tôi Chuyển Vàng Tại Mạt Thế",
+      "mainComic": "Vương Bân",
+      "imageComic": "https://i.postimg.cc/tCXTmN9b/toi-chuyen-vang-tai-mat-the-1593774220.jpg",
+      "linkComic": "https://truyenqqvn.com/truyen-tranh/toi-chuyen-vang-tai-mat-the-9988",
+      "chapComic": 418,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Mạt Thế",
+        "Hệ Thống"
+      ]
+    },
+    {
+      "id": 23,
+      "nameComic": "Nữ Đồ Đệ Ai Nấy Đều Muốn Giết Ta",
+      "mainComic": "Tô Bắc",
+      "imageComic": "https://i.postimg.cc/yxnRWVFp/nu-do-de-ai-nay-deu-muon-giet-ta.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/nu-do-de-ai-nay-deu-muon-giet-ta-76589",
+      "chapComic": 47,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Comedy",
+        "Action"
+      ]
+    },
+    {
+      "id": 24,
+      "nameComic": "Đại Phản Diện",
+      "mainComic": "Ân Vô Đạo",
+      "imageComic": "https://i.postimg.cc/J4zrjRLw/trum-phan-dien-1691423188.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/dai-phan-dien-64607",
+      "chapComic": 120,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Webtoon",
+        "Hệ Thống",
+        "Đô Thị"
+      ]
+    },
+    {
+      "id": 24,
+      "nameComic": "Ta Bị Nhốt Cùng Một Ngày 1000 Năm",
+      "mainComic": "Ngô Thần",
+      "imageComic": "https://i.postimg.cc/RZfcfkKB/yy-1.jpg",
+      "linkComic": "https://nettruyenus.com/truyen-tranh/ta-bi-ket-cung-mot-ngay-1000-nam-81624",
+      "chapComic": 50,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Webtoon",
+        "Hệ Thống",
+        "Đô Thị"
+      ]
+    },
+    {
+      "id": 25,
+      "nameComic": "Đại Chu Tiên Lại",
+      "mainComic": "Lý Mộ",
+      "imageComic": "https://i.postimg.cc/13ntN6XR/dai-chu-tien-lai.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/dai-chu-tien-lai-496980",
+      "chapComic": 100,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Chuyển Sinh",
+        "Mystery",
+        "Xuyên Không",
+        "Normal"
+      ]
+    },
+    {
+      "id": 26,
+      "nameComic": "Tinh Linh Ám Đế",
+      "mainComic": "Tô Tiểu Bạch",
+      "imageComic": "https://i.postimg.cc/bNGgdCxZ/tinh-linh-am-de.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/tinh-linh-am-de-325770",
+      "chapComic": 260,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Chuyển Sinh",
+        "Harem",
+        "Ecchi",
+        "Monster"
+      ]
+    },
+    {
+      "id": 27,
+      "nameComic": "Mở Đầu Nữ Đế Làm Chính Cung",
+      "mainComic": "Tiêu Thần",
+      "imageComic": "https://i.postimg.cc/pTVnwrWw/mo-dau-nu-de-lam-chinh-cung.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/mo-dau-nu-de-lam-chinh-cung-77547",
+      "chapComic": 313,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Chuyển Sinh",
+        "Harem",
+        "Normal"
+      ]
+    },
+    {
+      "id": 26,
+      "nameComic": "Tinh Linh Ám Đế",
+      "mainComic": "Tô Tiểu Bạch",
+      "imageComic": "https://i.postimg.cc/bNGgdCxZ/tinh-linh-am-de.jpg",
+      "linkComic": "https://www.nettruyenus.com/truyen-tranh/tinh-linh-am-de-325770",
+      "chapComic": 250,
+      "genreComic": [
+        "All",
+        "Manhua",
+        "Fantasy",
+        "Chuyển Sinh",
+        "Harem",
+        "Ecchi",
+        "Monster"
+      ]
     }
   ]
 }
