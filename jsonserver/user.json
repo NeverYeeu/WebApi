@@ -1,22 +1,6 @@
 {
   "manhua": [
     {
-      "id": 9,
-      "nameComic": "Chuyển Sinh Thành Liễu Đột Biến",
-      "mainComic": "Ngu Tử Du",
-      "imageComic": "https://i.postimg.cc/2j20Vw99/dc9260508ea8540c5232f3f699539fa3.png",
-      "linkComic": "https://timtruyen3shot.com/truyen-chuyen-sinh-thanh-lieu-dot-bien.html",
-      "chapComic": 110,
-      "genreComic": [
-        "All",
-        "Adventure",
-        "Comedy",
-        "Manhua",
-        "Action",
-        "Chuyển Sinh"
-      ]
-    },
-    {
       "id": 10,
       "nameComic": "Lạn Kha Kỳ Duyên",
       "mainComic": "Kế Duyên",
